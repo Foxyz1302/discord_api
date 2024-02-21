@@ -8,7 +8,7 @@ environment:
   sdk: '>=2.15.0 <3.0.0'
 
 dependencies:
-  dio: ^4.0.4
+  dio: ^5.4.1
 
 dev_dependencies:
   coverage: ^1.1.0
